@@ -15,3 +15,6 @@ https://www.rabbitmq.com/tutorials/tutorial-five-java.html
 
 Tutorial 6: Remote procedure call (RPC)
 https://www.rabbitmq.com/tutorials/tutorial-six-java.html
+
+Tutorial 7: Publisher Confirms
+https://www.rabbitmq.com/tutorials/tutorial-seven-java.html
