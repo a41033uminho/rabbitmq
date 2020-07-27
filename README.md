@@ -12,3 +12,6 @@ https://www.rabbitmq.com/tutorials/tutorial-four-java.html
 
 Tutorial 5: Topics
 https://www.rabbitmq.com/tutorials/tutorial-five-java.html
+
+Tutorial 6: Remote procedure call (RPC)
+https://www.rabbitmq.com/tutorials/tutorial-six-java.html
